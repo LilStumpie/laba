@@ -1,0 +1,50 @@
+Yes
+type zad5.txt
+copy zad5.txt "Z:\Ž‘‘’_2024-2025\1-Œ„-5\ãàç¥¢áª¨© ˆ.€"
+yes
+chcp 65001
+copy/?>copy.txt
+del copy.txt
+del xcopy.txt
+del dir.txt
+copy/?>copy.txt
+type copy.txt
+xcopy/?>xcopy.txt
+dir/?>dir.txt
+type zad5.txt
+chcp 1251
+type zad5.txt
+chcp 65001
+del zad5.txt
+copy con zad5.txt
+
+copy copy.txt + xcopy.txt + dir.txt zad5.txt
+yes
+type zad5.txt
+copy zad5.txt "Z:\Ž‘‘’_2024-2025\1-Œ„-5\ãàç¥¢áª¨© ˆ.€"
+yes
+type/?
+dir C:\WINDOWS/A:R/O:S\*bump
+dir C:\WINDOWS/A:R/O:S\*bmp
+dir C:\WINDOWS\*bmp*/A:R/O:S
+dir C:\WINDOWS\*.bmp*/A:R/O:S
+dir C:\WINDOWS\*.bmp/A:R/O:S
+dir C:\*.bmp/A:R/O:S
+dir C:\/A:R/O:S
+dir C:\/A:R/O:S*.bmp
+dir C:\%windows%\*.bmp/A:R/O:S
+dir C:\windows\*.bmp/A:R/O:S
+dir C:\windows\*.exe/A:R/O:S
+dir *.exe/A:R/O:S
+dir C:\*.exe/A:R/O:S
+dir C:\*.txt/A:R/O:S
+dir C:\*.txt/O:S
+dir "C:\Users\student"/A:H/O:D
+xcopy C:\Windows\*png C:\WinGrafica & xcopy C:\Windows\*jpeg C:\WinGrafica
+xcopy C:\Windows\*.png C:\WinGrafica & xcopy C:\Windows\*.jpeg C:\WinGrafica
+xcopy C:\Windows\*.exe C:\WinEx
+doskey /history
+doskey /history > laboratornaya rabota.txt
+copy laboratornaya rabota.txt "Z:\Ž‘‘’_2024-2025\1-Œ„-5\ãàç¥¢áª¨© ˆ.€"
+copy "laboratornaya raboyta. txt" "Z:\Ž‘‘’_2024-2025\1-Œ„-5\ãàç¥¢áª¨© ˆ.€"
+doskey /history >laba2.txt
